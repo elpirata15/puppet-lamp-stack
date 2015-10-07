@@ -2,6 +2,7 @@ class tools {
 
   # package install list
   $packages = [
+    "git",
     "curl",
     "vim",
     "htop"
